@@ -4,7 +4,7 @@
 This project aims to predict whether a telecom customer will churn (leave the service) based on their usage and contract information. Predicting customer churn helps telecom companies take proactive steps to retain valuable customers and optimize retention strategies.
 
 ## Dataset
-* **Source:** [Telco Customer Churn (Kaggle)](#) https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+* **Source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 * **Type:** Binary Classification
 
 ## Repository Structure
